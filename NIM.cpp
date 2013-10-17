@@ -1,17 +1,15 @@
-//NIM dabs október 1997
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
-#include <time.h>
+>
 
 using namespace std;
 
 //Þetta fall á að birta stöðu allra eldspýtnahrúgna (hrúgur í fleirtölu eignarfalli)
 void birta( int* hruga );
-
 //Þetta fall á að reikna út hversu margar eldspýtur eru eftir í hrúgunum:
 int samtals( int* hruga );
-
+bara gaman ad skrifa eitthvad rugl
 //Þetta fall lætur tölvuna gera:
 void tolva( int* hruga );
 
